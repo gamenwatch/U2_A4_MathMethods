@@ -63,93 +63,93 @@
               </Group>
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="84" max="-2" attributes="0"/>
-                  <Component id="maxInput1" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="maxIn1" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
-                  <Component id="maxInput2" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="maxIn2" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
-                  <Component id="maxButton" min="-2" max="-2" attributes="0"/>
+                  <Component id="maxButton" min="-2" pref="72" max="-2" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
                   <Component id="maxOut" min="-2" pref="56" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
               </Group>
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="86" max="-2" attributes="0"/>
-                  <Component id="minInput1" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="minIn1" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
                   <Component id="minIn2" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
-                  <Component id="jButton3" min="-2" max="-2" attributes="0"/>
+                  <Component id="minButton" min="-2" pref="71" max="-2" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
                   <Component id="minOut" min="-2" pref="58" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
               </Group>
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
-                  <Component id="jTextField7" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="powerIn1" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
-                  <Component id="jTextField8" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="powerIn2" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
                   <Component id="powerButton" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
-                  <Component id="jTextField9" min="-2" pref="60" max="-2" attributes="0"/>
+                  <Component id="powerOut" min="-2" pref="60" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
               </Group>
               <Group type="102" alignment="1" attributes="0">
                   <EmptySpace min="-2" pref="84" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="1" attributes="0">
                       <Group type="102" attributes="0">
-                          <Component id="jTextField15" min="-2" pref="25" max="-2" attributes="0"/>
+                          <Component id="hypIn1" min="-2" pref="25" max="-2" attributes="0"/>
                           <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
-                          <Component id="jTextField16" min="-2" pref="25" max="-2" attributes="0"/>
+                          <Component id="hypIn2" min="-2" pref="25" max="-2" attributes="0"/>
                           <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
-                          <Component id="jButton4" min="-2" max="-2" attributes="0"/>
+                          <Component id="hypButton" min="-2" pref="68" max="-2" attributes="0"/>
                           <EmptySpace max="32767" attributes="0"/>
-                          <Component id="jTextField10" min="-2" pref="56" max="-2" attributes="0"/>
+                          <Component id="hypOut" min="-2" pref="56" max="-2" attributes="0"/>
                       </Group>
                       <Group type="102" attributes="0">
                           <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
-                          <Component id="jTextField17" min="-2" pref="25" max="-2" attributes="0"/>
+                          <Component id="upIn1" min="-2" pref="25" max="-2" attributes="0"/>
                           <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="jTextField18" min="-2" pref="25" max="-2" attributes="0"/>
+                          <Component id="upIn2" min="-2" pref="25" max="-2" attributes="0"/>
                           <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
-                          <Component id="jButton5" min="-2" max="-2" attributes="0"/>
+                          <Component id="upButton" min="-2" max="-2" attributes="0"/>
                           <EmptySpace max="32767" attributes="0"/>
-                          <Component id="jTextField11" min="-2" pref="53" max="-2" attributes="0"/>
+                          <Component id="upOut" min="-2" pref="53" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <EmptySpace min="64" pref="64" max="-2" attributes="0"/>
               </Group>
               <Group type="102" alignment="1" attributes="0">
                   <EmptySpace min="-2" pref="82" max="-2" attributes="0"/>
-                  <Component id="jTextField19" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="downIn1" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
-                  <Component id="jTextField20" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="downIn2" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="84" max="-2" attributes="0"/>
-                  <Component id="jButton6" min="-2" max="-2" attributes="0"/>
+                  <Component id="downButton" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
-                  <Component id="jTextField12" min="-2" pref="53" max="-2" attributes="0"/>
+                  <Component id="downOut" min="-2" pref="53" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
               </Group>
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="82" max="-2" attributes="0"/>
-                  <Component id="jTextField21" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="rootIn1" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
-                  <Component id="jTextField22" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="rootIn2" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
-                  <Component id="jButton7" min="-2" max="-2" attributes="0"/>
+                  <Component id="rootButton" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
-                  <Component id="jTextField14" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="rootOut" min="-2" pref="64" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
               </Group>
               <Group type="102" alignment="1" attributes="0">
                   <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
-                  <Component id="jTextField23" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="radiansIn1" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
-                  <Component id="jTextField24" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="radiansIn2" min="-2" pref="25" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
-                  <Component id="jButton8" min="-2" max="-2" attributes="0"/>
+                  <Component id="raidansButton" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
-                  <Component id="jTextField13" min="-2" pref="57" max="-2" attributes="0"/>
+                  <Component id="radiansOut" min="-2" pref="57" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
               </Group>
               <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
@@ -168,73 +168,73 @@
                   <Component id="titleLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="maxInput2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="maxIn2" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="maxButton" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="maxOut" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="maxInput1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="maxIn1" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Component id="minLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="minInput1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="minIn1" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="minIn2" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="minOut" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="minButton" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="powerLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="jTextField7" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="powerIn1" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="powerButton" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField9" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="powerOut" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="powerIn2" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="hypLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="jTextField10" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField15" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField16" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jButton4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="hypOut" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="hypIn1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="hypIn2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="hypButton" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Component id="rupLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="jTextField11" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField17" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField18" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jButton5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="upOut" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="upIn1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="upIn2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="upButton" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Component id="rdownLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="jTextField12" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField19" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField20" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jButton6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="downOut" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="downIn1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="downIn2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="downButton" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Component id="rootLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="jTextField21" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField22" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jButton7" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField14" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="rootIn1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="rootIn2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="rootButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="rootOut" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
                   <Component id="radiansLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="jTextField13" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField23" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jTextField24" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jButton8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="radiansOut" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="radiansIn1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="radiansIn2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="raidansButton" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace pref="34" max="32767" attributes="0"/>
               </Group>
@@ -306,13 +306,13 @@
             <Property name="text" type="java.lang.String" value="Enter an angle and click the button. The program will display the square root"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="maxInput2">
+        <Component class="javax.swing.JTextField" name="maxIn2">
         </Component>
-        <Component class="javax.swing.JTextField" name="minInput1">
+        <Component class="javax.swing.JTextField" name="minIn1">
         </Component>
         <Component class="javax.swing.JButton" name="maxButton">
           <Properties>
-            <Property name="text" type="java.lang.String" value="jButton1"/>
+            <Property name="text" type="java.lang.String" value="MAX"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="maxButtonActionPerformed"/>
@@ -323,13 +323,13 @@
             <Property name="editable" type="boolean" value="false"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="maxInput1">
+        <Component class="javax.swing.JTextField" name="maxIn1">
         </Component>
         <Component class="javax.swing.JTextField" name="minIn2">
         </Component>
         <Component class="javax.swing.JButton" name="powerButton">
           <Properties>
-            <Property name="text" type="java.lang.String" value="jButton1"/>
+            <Property name="text" type="java.lang.String" value="POWER"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="powerButtonActionPerformed"/>
@@ -340,106 +340,106 @@
             <Property name="editable" type="boolean" value="false"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField7">
+        <Component class="javax.swing.JTextField" name="powerIn1">
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField8">
+        <Component class="javax.swing.JTextField" name="powerIn2">
         </Component>
-        <Component class="javax.swing.JButton" name="jButton3">
+        <Component class="javax.swing.JButton" name="minButton">
           <Properties>
-            <Property name="text" type="java.lang.String" value="jButton1"/>
+            <Property name="text" type="java.lang.String" value="MIN"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="minButtonActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField9">
+        <Component class="javax.swing.JTextField" name="powerOut">
           <Properties>
             <Property name="editable" type="boolean" value="false"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField10">
+        <Component class="javax.swing.JTextField" name="hypOut">
           <Properties>
             <Property name="editable" type="boolean" value="false"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField11">
+        <Component class="javax.swing.JTextField" name="upOut">
           <Properties>
             <Property name="editable" type="boolean" value="false"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField12">
+        <Component class="javax.swing.JTextField" name="downOut">
           <Properties>
             <Property name="editable" type="boolean" value="false"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField13">
+        <Component class="javax.swing.JTextField" name="radiansOut">
           <Properties>
             <Property name="editable" type="boolean" value="false"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField14">
+        <Component class="javax.swing.JTextField" name="rootOut">
           <Properties>
             <Property name="editable" type="boolean" value="false"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField15">
+        <Component class="javax.swing.JTextField" name="hypIn1">
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField16">
+        <Component class="javax.swing.JTextField" name="hypIn2">
         </Component>
-        <Component class="javax.swing.JButton" name="jButton4">
+        <Component class="javax.swing.JButton" name="hypButton">
           <Properties>
-            <Property name="text" type="java.lang.String" value="jButton1"/>
+            <Property name="text" type="java.lang.String" value="HYP"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="hypButtonActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField17">
+        <Component class="javax.swing.JTextField" name="upIn1">
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField18">
+        <Component class="javax.swing.JTextField" name="upIn2">
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField19">
+        <Component class="javax.swing.JTextField" name="downIn1">
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField20">
+        <Component class="javax.swing.JTextField" name="downIn2">
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField21">
+        <Component class="javax.swing.JTextField" name="rootIn1">
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField22">
+        <Component class="javax.swing.JTextField" name="rootIn2">
         </Component>
-        <Component class="javax.swing.JButton" name="jButton5">
+        <Component class="javax.swing.JButton" name="upButton">
           <Properties>
             <Property name="text" type="java.lang.String" value="jButton1"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="upButtonActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton6">
+        <Component class="javax.swing.JButton" name="downButton">
           <Properties>
             <Property name="text" type="java.lang.String" value="jButton1"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton6ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="downButtonActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton7">
+        <Component class="javax.swing.JButton" name="rootButton">
           <Properties>
             <Property name="text" type="java.lang.String" value="jButton1"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton7ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rootButtonActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField23">
+        <Component class="javax.swing.JTextField" name="radiansIn1">
         </Component>
-        <Component class="javax.swing.JTextField" name="jTextField24">
+        <Component class="javax.swing.JTextField" name="radiansIn2">
         </Component>
-        <Component class="javax.swing.JButton" name="jButton8">
+        <Component class="javax.swing.JButton" name="raidansButton">
           <Properties>
             <Property name="text" type="java.lang.String" value="jButton1"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton8ActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="raidansButtonActionPerformed"/>
           </Events>
         </Component>
       </SubComponents>
